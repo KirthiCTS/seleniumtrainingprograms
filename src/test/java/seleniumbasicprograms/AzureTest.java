@@ -26,6 +26,7 @@ public class AzureTest {
 			System.out.println("Element is  displayed");
 		
 		
+		driver.quit();
 
 	}
 

@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-30T17:18:46 IST" name="Default suite" finished-at="2024-05-30T17:18:56 IST" duration-ms="9618">
+  <suite started-at="2024-05-30T17:24:28 IST" name="Suite" finished-at="2024-05-30T17:24:36 IST" duration-ms="7883">
     <groups>
     </groups>
-    <test started-at="2024-05-30T17:18:46 IST" name="Default test" finished-at="2024-05-30T17:18:56 IST" duration-ms="9618">
+    <test started-at="2024-05-30T17:24:28 IST" name="Test" finished-at="2024-05-30T17:24:36 IST" duration-ms="7883">
       <class name="seleniumbasicprograms.AzureTest">
-        <test-method signature="azureTestExecution()[pri:0, instance:seleniumbasicprograms.AzureTest@77fbd92c]" started-at="2024-05-30T17:18:46 IST" name="azureTestExecution" finished-at="2024-05-30T17:18:56 IST" duration-ms="9568" status="PASS">
+        <test-method signature="azureTestExecution()[pri:0, instance:seleniumbasicprograms.AzureTest@9597028]" started-at="2024-05-30T17:24:28 IST" name="azureTestExecution" finished-at="2024-05-30T17:24:36 IST" duration-ms="7839" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- azureTestExecution -->
       </class> <!-- seleniumbasicprograms.AzureTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
