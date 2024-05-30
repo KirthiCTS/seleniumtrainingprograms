@@ -19,9 +19,9 @@ public class ChromeOptionsExamples {
 
 		ChromeOptions chromeOptions = new ChromeOptions();
 		
-		String browserPath = SeleniumManager.getInstance().getDriverPath(chromeOptions, false).browserPath;
+	//	String browserPath = SeleniumManager.getInstance().getDriverPath(chromeOptions, false).browserPath;
 		
-		System.out.println(browserPath);
+	//	System.out.println(browserPath);
 		
 	//	chromeOptions.setBrowserVersion("119");
 	//	chromeOptions.setExperimentalOption("mobileEmulation", mobileEm);
